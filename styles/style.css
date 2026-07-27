@@ -300,8 +300,6 @@ html {
   margin: 0 0 68px;
 }
 
-/* Add the CSS rule for your new class here. Make sure to place it before .card: parents should precede their children */
-
 .card {
   background-color: #fff;
   border-radius: 6px;
