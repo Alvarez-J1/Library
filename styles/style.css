@@ -459,7 +459,7 @@ html {
 }
 
 .footer__list-item:last-child {
-  margin: 0 0 16px;
+  margin: 0;
 }
 
 .footer__column-heading {
