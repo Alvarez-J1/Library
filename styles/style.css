@@ -110,7 +110,7 @@ html {
 .events {
   padding: 100px 0 120px 80px;
   display: flex;
-  align-items: start;
+  align-items: flex-start;
   justify-content: space-between;
   box-sizing: border-box;
   background-color: #f2f2f2;
