@@ -11,6 +11,23 @@ html {
   line-height: 20px;
 }
 
+.skip-link {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 10;
+  transform: translateY(-150%);
+  padding: 12px 16px;
+  border-radius: 4px;
+  background-color: #1f1f1f;
+  color: #fff;
+  text-decoration: none;
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
 .header {
   display: flex;
   flex-direction: column;
