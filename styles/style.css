@@ -124,6 +124,14 @@ html {
   border-radius: 2px;
 }
 
+.nav__link:hover,
+.header__link:hover,
+.events__more:hover,
+.footer__column-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
 .events {
   padding: 100px 0 120px 80px;
   display: flex;
