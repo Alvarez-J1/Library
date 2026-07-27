@@ -23,7 +23,7 @@ installation is required.
 
 ## Project structure
 
-- `index.html` — page markup
-- `styles/style.css` — custom styles
-- `images/` — images and icons used by the page
-- `vendor/normalize.css` — browser style reset
+- `index.html` - page markup
+- `styles/style.css` - custom styles
+- `images/` - images and icons used by the page
+- `vendor/normalize.css` - browser style reset
