@@ -94,6 +94,15 @@
   color: #d35722;
 }
 
+.nav__link:focus-visible,
+.header__link:focus-visible,
+.events__more:focus-visible,
+.footer__column-link:focus-visible {
+  outline: 2px solid #e96e3a;
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
 .events {
   padding: 100px 0 120px 80px;
   display: flex;
