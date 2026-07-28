@@ -33,3 +33,8 @@ and font resource hints to reduce avoidable layout shifts and loading delays.
 - `styles/style.css` - custom styles
 - `images/` - images and icons used by the page
 - `vendor/normalize.css` - browser style reset
+
+## Maintenance
+
+EditorConfig and VS Code settings are included to keep indentation, line endings,
+and formatting consistent across contributors.
