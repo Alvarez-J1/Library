@@ -34,6 +34,11 @@ html {
   transform: translateY(0);
 }
 
+.skip-link:focus-visible {
+  outline: 2px solid #e96e3a;
+  outline-offset: 4px;
+}
+
 .header {
   display: flex;
   flex-direction: column;
