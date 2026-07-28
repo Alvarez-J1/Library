@@ -146,6 +146,7 @@ html {
 }
 
 .events {
+  scroll-margin-top: 24px;
   padding: 100px 0 120px 80px;
   display: flex;
   align-items: flex-start;
@@ -287,6 +288,7 @@ html {
   margin: 0;
 }
 .staff {
+  scroll-margin-top: 24px;
   padding: 100px 0 140px;
   background-color: #1f1f1f;
   background-image: url(../images/staff_picks_background.jpg);
@@ -361,6 +363,7 @@ html {
 }
 
 .membership {
+  scroll-margin-top: 24px;
   padding: 100px 0 140px;
   background-color: #f2f2f2;
 }
@@ -405,6 +408,7 @@ html {
 }
 
 .about {
+  scroll-margin-top: 24px;
   padding: 58px 220px 82px 560px;
   background-color: #1f1f1f;
   color: #fff;
@@ -445,6 +449,7 @@ html {
 }
 
 .footer {
+  scroll-margin-top: 24px;
   box-sizing: border-box;
   background-color: #1f1f1f;
   color: #fff;
