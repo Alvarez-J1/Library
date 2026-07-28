@@ -22,6 +22,11 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 Open `index.html` in a browser to view the page locally. No build step or package
 installation is required.
 
+## Performance notes
+
+The page includes image dimensions, lazy-loading hints for below-the-fold images,
+and font resource hints to reduce avoidable layout shifts and loading delays.
+
 ## Project structure
 
 - `index.html` - page markup
