@@ -336,6 +336,7 @@ html {
   box-sizing: border-box;
   width: 360px;
   min-height: 420px;
+  box-shadow: 0 8px 20px rgba(31, 31, 31, 0.08);
 }
 
 .card__content {
