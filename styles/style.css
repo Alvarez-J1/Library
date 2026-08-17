@@ -529,7 +529,7 @@ html {
 }
 
 .footer__column-link:hover {
-  color: #c1c1c1;
+  color: var(--color-footer-link-hover);
 }
 
 .footer__social-icon {
