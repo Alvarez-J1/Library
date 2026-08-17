@@ -65,7 +65,7 @@ html {
   font-size: 66px;
   line-height: 76px;
   font-weight: 500;
-  color: #000000;
+  color: var(--color-text-primary);
   margin: 128px 0 0;
   max-width: 601px;
 }
@@ -73,7 +73,7 @@ html {
 .header__description {
   font-size: 20px;
   line-height: 30px;
-  color: #000000;
+  color: var(--color-text-primary);
   margin: 32px 0 0;
   max-width: 532px;
 }
@@ -131,7 +131,7 @@ html {
 }
 
 .nav__link {
-  color: #000000;
+  color: var(--color-text-primary);
   text-decoration: none;
   font-weight: 500;
   transition: color 0.2s ease;
