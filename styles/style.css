@@ -49,7 +49,7 @@ html {
 }
 
 .skip-link:focus-visible {
-  outline: 2px solid var(--color-accent);
+  outline: var(--focus-outline);
   outline-offset: 4px;
 }
 
@@ -148,7 +148,7 @@ html {
 .header__link:focus-visible,
 .events__more:focus-visible,
 .footer__column-link:focus-visible {
-  outline: 2px solid var(--color-accent);
+  outline: var(--focus-outline);
   outline-offset: 4px;
   border-radius: 2px;
 }
