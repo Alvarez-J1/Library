@@ -162,7 +162,7 @@ html {
 }
 
 .events {
-  scroll-margin-top: 24px;
+  scroll-margin-top: var(--scroll-margin-section);
   padding: 100px 0 120px 80px;
   display: flex;
   align-items: flex-start;
@@ -306,7 +306,7 @@ html {
   margin: 0;
 }
 .staff {
-  scroll-margin-top: 24px;
+  scroll-margin-top: var(--scroll-margin-section);
   padding: 100px 0 140px;
   background-color: var(--color-dark);
   background-image: url(../images/staff_picks_background.jpg);
@@ -387,7 +387,7 @@ html {
 }
 
 .membership {
-  scroll-margin-top: 24px;
+  scroll-margin-top: var(--scroll-margin-section);
   padding: 100px 0 140px;
   background-color: var(--color-section-light);
 }
@@ -432,7 +432,7 @@ html {
 }
 
 .about {
-  scroll-margin-top: 24px;
+  scroll-margin-top: var(--scroll-margin-section);
   padding: 58px 220px 82px 560px;
   background-color: var(--color-dark);
   color: var(--color-surface);
@@ -474,7 +474,7 @@ html {
 }
 
 .footer {
-  scroll-margin-top: 24px;
+  scroll-margin-top: var(--scroll-margin-section);
   box-sizing: border-box;
   background-color: var(--color-dark);
   color: var(--color-surface);
