@@ -46,7 +46,7 @@ html {
 }
 
 .skip-link:focus-visible {
-  outline: 2px solid #e96e3a;
+  outline: 2px solid var(--color-accent);
   outline-offset: 4px;
 }
 
@@ -97,7 +97,7 @@ html {
 }
 
 .header__link {
-  color: #e96e3a;
+  color: var(--color-accent);
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -145,7 +145,7 @@ html {
 .header__link:focus-visible,
 .events__more:focus-visible,
 .footer__column-link:focus-visible {
-  outline: 2px solid #e96e3a;
+  outline: 2px solid var(--color-accent);
   outline-offset: 4px;
   border-radius: 2px;
 }
@@ -225,7 +225,7 @@ html {
 }
 
 .events__more {
-  color: #e96e3a;
+  color: var(--color-accent);
   text-decoration: none;
   transition: color 0.2s ease;
 }
