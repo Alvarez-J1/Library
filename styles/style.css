@@ -108,7 +108,7 @@ html {
 
 .header__address {
   margin: 0;
-  color: #838383;
+  color: var(--color-text-muted);
   font-style: normal;
 }
 
@@ -379,7 +379,7 @@ html {
   margin: 0;
   font-size: 14px;
   line-height: 20px;
-  color: #838383;
+  color: var(--color-text-muted);
   margin-top: auto;
 }
 
