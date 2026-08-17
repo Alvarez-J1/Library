@@ -10,6 +10,9 @@
   --transition-color: color 0.2s ease;
   --focus-outline: 2px solid var(--color-accent);
   --scroll-margin-section: 24px;
+  --shadow-card: 0 8px 20px rgba(31, 31, 31, 0.08);
+  --shadow-card-hover: 0 12px 28px rgba(31, 31, 31, 0.14);
+  --transition-shadow: box-shadow 0.2s ease;
 }
 
 html {
