@@ -353,12 +353,12 @@ html {
   box-sizing: border-box;
   width: 360px;
   min-height: 420px;
-  box-shadow: 0 8px 20px rgba(31, 31, 31, 0.08);
-  transition: box-shadow 0.2s ease;
+  box-shadow: var(--shadow-card);
+  transition: var(--transition-shadow);
 }
 
 .card:hover {
-  box-shadow: 0 12px 28px rgba(31, 31, 31, 0.14);
+  box-shadow: var(--shadow-card-hover);
 }
 
 .card__content {
