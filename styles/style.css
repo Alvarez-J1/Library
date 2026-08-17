@@ -165,7 +165,7 @@ html {
   align-items: flex-start;
   justify-content: space-between;
   box-sizing: border-box;
-  background-color: #f2f2f2;
+  background-color: var(--color-section-light);
 }
 
 .events__content {
@@ -386,7 +386,7 @@ html {
 .membership {
   scroll-margin-top: 24px;
   padding: 100px 0 140px;
-  background-color: #f2f2f2;
+  background-color: var(--color-section-light);
 }
 
 .membership__title {
