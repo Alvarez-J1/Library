@@ -7,6 +7,9 @@
   --color-surface: #fff;
   --color-dark: #1f1f1f;
   --color-footer-link-hover: #c1c1c1;
+  --transition-color: color 0.2s ease;
+  --focus-outline: 2px solid var(--color-accent);
+  --scroll-margin-section: 24px;
 }
 
 html {
