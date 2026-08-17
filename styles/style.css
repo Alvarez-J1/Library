@@ -102,7 +102,7 @@ html {
 .header__link {
   color: var(--color-accent);
   text-decoration: none;
-  transition: color 0.2s ease;
+  transition: var(--transition-color);
 }
 
 .header__link:hover {
@@ -137,7 +137,7 @@ html {
   color: var(--color-text-primary);
   text-decoration: none;
   font-weight: 500;
-  transition: color 0.2s ease;
+  transition: var(--transition-color);
 }
 
 .nav__link:hover {
@@ -230,7 +230,7 @@ html {
 .events__more {
   color: var(--color-accent);
   text-decoration: none;
-  transition: color 0.2s ease;
+  transition: var(--transition-color);
 }
 
 .events__more:hover {
@@ -528,7 +528,7 @@ html {
   text-decoration: none;
   display: flex;
   gap: 10px;
-  transition: color 0.2s ease;
+  transition: var(--transition-color);
 }
 
 .footer__column-link:hover {
