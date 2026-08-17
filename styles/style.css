@@ -103,7 +103,7 @@ html {
 }
 
 .header__link:hover {
-  color: #d35722;
+  color: var(--color-accent-hover);
 }
 
 .header__address {
@@ -138,7 +138,7 @@ html {
 }
 
 .nav__link:hover {
-  color: #d35722;
+  color: var(--color-accent-hover);
 }
 
 .nav__link:focus-visible,
@@ -231,7 +231,7 @@ html {
 }
 
 .events__more:hover {
-  color: #d35722;
+  color: var(--color-accent-hover);
 }
 
 .events__cover {
