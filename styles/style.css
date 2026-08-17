@@ -37,7 +37,7 @@ html {
   padding: 12px 16px;
   border-radius: 4px;
   background-color: var(--color-dark);
-  color: #fff;
+  color: var(--color-surface);
   text-decoration: none;
 }
 
@@ -328,7 +328,7 @@ html {
   line-height: 52px;
   margin: 0 0 24px;
   font-weight: 500;
-  color: #fff;
+  color: var(--color-surface);
 }
 
 .staff__subtitle {
@@ -336,12 +336,12 @@ html {
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
-  color: #fff;
+  color: var(--color-surface);
   margin: 0 0 68px;
 }
 
 .card {
-  background-color: #fff;
+  background-color: var(--color-surface);
   border-radius: 6px;
   padding: 32px 40px 20px 32px;
   box-sizing: border-box;
@@ -432,7 +432,7 @@ html {
   scroll-margin-top: 24px;
   padding: 58px 220px 82px 560px;
   background-color: var(--color-dark);
-  color: #fff;
+  color: var(--color-surface);
   overflow: hidden;
   position: relative;
   box-sizing: border-box;
@@ -474,7 +474,7 @@ html {
   scroll-margin-top: 24px;
   box-sizing: border-box;
   background-color: var(--color-dark);
-  color: #fff;
+  color: var(--color-surface);
   padding: 60px 80px;
   font-size: 16px;
   line-height: 20px;
@@ -519,7 +519,7 @@ html {
 }
 
 .footer__column-link {
-  color: white;
+  color: var(--color-surface);
   font-size: 16px;
   line-height: 20px;
   text-decoration: none;
