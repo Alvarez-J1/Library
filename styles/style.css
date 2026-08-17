@@ -36,7 +36,7 @@ html {
   transform: translateY(-150%);
   padding: 12px 16px;
   border-radius: 4px;
-  background-color: #1f1f1f;
+  background-color: var(--color-dark);
   color: #fff;
   text-decoration: none;
 }
@@ -305,7 +305,7 @@ html {
 .staff {
   scroll-margin-top: 24px;
   padding: 100px 0 140px;
-  background-color: #1f1f1f;
+  background-color: var(--color-dark);
   background-image: url(../images/staff_picks_background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -431,7 +431,7 @@ html {
 .about {
   scroll-margin-top: 24px;
   padding: 58px 220px 82px 560px;
-  background-color: #1f1f1f;
+  background-color: var(--color-dark);
   color: #fff;
   overflow: hidden;
   position: relative;
@@ -473,7 +473,7 @@ html {
 .footer {
   scroll-margin-top: 24px;
   box-sizing: border-box;
-  background-color: #1f1f1f;
+  background-color: var(--color-dark);
   color: #fff;
   padding: 60px 80px;
   font-size: 16px;
