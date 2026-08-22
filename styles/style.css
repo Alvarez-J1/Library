@@ -393,7 +393,7 @@ html {
 .card__text {
   margin: 20px 0 0;
   font-size: 16px;
-  line-height: 24px;
+  line-height: var(--line-height-card-copy);
 }
 
 .card__footer {
