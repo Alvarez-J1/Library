@@ -155,7 +155,7 @@ html {
 .events__more:focus-visible,
 .footer__column-link:focus-visible {
   outline: var(--focus-outline);
-  outline-offset: 4px;
+  outline-offset: var(--space-focus-offset);
   border-radius: 2px;
 }
 
