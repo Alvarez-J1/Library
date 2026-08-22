@@ -40,7 +40,7 @@ html {
   margin: 0 auto;
   font-family: var(--font-family-page);
   font-size: var(--font-size-base);
-  line-height: 20px;
+  line-height: var(--line-height-base);
 }
 
 .skip-link {
