@@ -157,7 +157,7 @@ html {
 .footer__column-link:focus-visible {
   outline: var(--focus-outline);
   outline-offset: var(--space-focus-offset);
-  border-radius: 2px;
+  border-radius: var(--radius-focus);
 }
 
 .nav__link:hover,
