@@ -438,7 +438,7 @@ html {
 }
 
 .step__icon {
-  margin-left: 20px;
+  margin-left: var(--space-step-icon-gap);
 }
 
 .step__description {
