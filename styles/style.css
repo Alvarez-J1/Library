@@ -540,7 +540,7 @@ html {
   line-height: 20px;
   text-decoration: none;
   display: flex;
-  gap: 10px;
+  gap: var(--space-social-icon-gap);
   transition: var(--transition-color);
 }
 
