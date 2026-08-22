@@ -56,7 +56,7 @@ html {
 
 .skip-link:focus-visible {
   outline: var(--focus-outline);
-  outline-offset: 4px;
+  outline-offset: var(--space-focus-offset);
 }
 
 .header {
