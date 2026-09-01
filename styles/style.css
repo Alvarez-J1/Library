@@ -199,7 +199,7 @@ html {
 }
 
 .events__title {
-  font-size: 44px;
+  font-size: var(--font-size-section-heading);
   font-weight: 500;
   line-height: 52px;
   margin: 32px 0 0;
