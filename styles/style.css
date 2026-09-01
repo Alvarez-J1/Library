@@ -74,7 +74,7 @@ html {
   height: 100vh;
   min-height: 720px;
   max-height: 800px;
-  padding: 30px 80px 40px;
+  padding: 30px var(--space-page-inline) 40px;
   position: relative;
   box-sizing: border-box;
 }
