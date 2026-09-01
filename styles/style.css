@@ -345,7 +345,7 @@ html {
 .staff__title {
   text-align: center;
   font-size: var(--font-size-section-heading);
-  line-height: 52px;
+  line-height: var(--line-height-section-heading);
   margin: 0 0 24px;
   font-weight: 500;
   color: var(--color-surface);
