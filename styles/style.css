@@ -419,7 +419,7 @@ html {
   text-align: center;
   font-size: var(--font-size-section-heading);
   font-weight: 500;
-  line-height: 52px;
+  line-height: var(--line-height-section-heading);
 }
 
 .membership__steps {
