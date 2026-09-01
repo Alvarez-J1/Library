@@ -178,7 +178,7 @@ html {
 
 .events {
   scroll-margin-top: var(--scroll-margin-section);
-  padding: 100px 0 120px 80px;
+  padding: 100px 0 120px var(--space-page-inline);
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
