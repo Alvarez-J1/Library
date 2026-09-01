@@ -343,7 +343,7 @@ html {
 
 .staff__title {
   text-align: center;
-  font-size: 44px;
+  font-size: var(--font-size-section-heading);
   line-height: 52px;
   margin: 0 0 24px;
   font-weight: 500;
