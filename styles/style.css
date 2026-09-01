@@ -497,7 +497,7 @@ html {
   box-sizing: border-box;
   background-color: var(--color-dark);
   color: var(--color-surface);
-  padding: 60px 80px;
+  padding: 60px var(--space-page-inline);
   font-size: 16px;
   line-height: 20px;
 }
