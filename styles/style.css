@@ -356,7 +356,7 @@ html {
 .staff__subtitle {
   text-align: center;
   font-size: var(--font-size-lead);
-  line-height: 30px;
+  line-height: var(--line-height-lead);
   font-weight: 400;
   color: var(--color-surface);
   margin: 0 0 68px;
