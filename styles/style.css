@@ -238,7 +238,7 @@ html {
 .event-info__text {
   font-size: var(--font-size-lead);
   font-weight: 500;
-  line-height: 30px;
+  line-height: var(--line-height-lead);
   margin: 0;
 }
 
