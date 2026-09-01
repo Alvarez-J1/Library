@@ -466,7 +466,7 @@ html {
 .about__title {
   margin: 0 0 32px;
   font-size: var(--font-size-section-heading);
-  line-height: 52px;
+  line-height: var(--line-height-section-heading);
   font-weight: 500;
 }
 
