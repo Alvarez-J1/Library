@@ -194,7 +194,7 @@ html {
 }
 
 .events__heading {
-  font-size: 20px;
+  font-size: var(--font-size-lead);
   font-weight: 500;
   line-height: 30px;
   margin: 0;
