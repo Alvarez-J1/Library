@@ -94,7 +94,7 @@ html {
 
 .header__description {
   font-size: var(--font-size-lead);
-  line-height: 30px;
+  line-height: var(--line-height-lead);
   color: var(--color-text-primary);
   margin: 32px 0 0;
   max-width: 532px;
