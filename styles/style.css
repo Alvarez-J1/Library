@@ -154,7 +154,7 @@ html {
 
 .nav__logo {
   height: 80px;
-  width: 57px;
+  width: var(--size-logo-width);
 }
 
 .nav__links {
