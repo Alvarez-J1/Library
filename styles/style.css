@@ -328,7 +328,7 @@ html {
 }
 
 .person__image_size_s {
-  width: 80px;
+  width: var(--size-person-image-small);
 }
 
 .person__caption {
