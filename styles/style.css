@@ -534,7 +534,7 @@ html {
 
 .footer__logo {
   width: var(--size-logo-width);
-  height: 80px;
+  height: var(--size-logo-height);
 }
 
 .footer__list {
