@@ -441,7 +441,7 @@ html {
 }
 
 .step {
-  flex-basis: 220px;
+  flex-basis: var(--size-membership-step-width);
 }
 
 .step__title {
