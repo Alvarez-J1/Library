@@ -532,7 +532,7 @@ html {
 }
 
 .footer__logo {
-  width: 57px;
+  width: var(--size-logo-width);
   height: 80px;
 }
 
