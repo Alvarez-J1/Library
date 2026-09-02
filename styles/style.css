@@ -345,7 +345,7 @@ html {
   list-style-type: none;
   padding: 0;
   margin: 0 auto;
-  gap: 40px;
+  gap: var(--space-staff-card-gap);
 }
 
 .staff__title {
