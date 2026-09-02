@@ -268,7 +268,7 @@ html {
 .events__cover {
   flex-grow: 1;
   flex-shrink: 0;
-  flex-basis: 780px;
+  flex-basis: var(--size-events-cover-width);
   max-width: 780px;
   position: relative;
 }
