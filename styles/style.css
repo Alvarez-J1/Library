@@ -154,7 +154,7 @@ html {
 }
 
 .nav__logo {
-  height: 80px;
+  height: var(--size-logo-height);
   width: var(--size-logo-width);
 }
 
