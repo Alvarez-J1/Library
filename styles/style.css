@@ -33,6 +33,7 @@
   --line-height-section-heading: 52px;
   --line-height-card-copy: 24px;
   --size-card-width: 360px;
+  --size-card-min-height: 420px;
   --radius-card: 6px;
 }
 
