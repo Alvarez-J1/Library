@@ -374,7 +374,7 @@ html {
   padding: 32px 40px 20px 32px;
   box-sizing: border-box;
   width: var(--size-card-width);
-  min-height: 420px;
+  min-height: var(--size-card-min-height);
   box-shadow: var(--shadow-card);
   transition: var(--transition-shadow);
 }
