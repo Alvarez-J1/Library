@@ -523,7 +523,7 @@ html {
 }
 
 .footer__column_content_social {
-  margin-left: 80px;
+  margin-left: var(--space-footer-column-gap);
 }
 
 .footer__logo {
