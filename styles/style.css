@@ -85,7 +85,7 @@ html {
 }
 
 .header__title {
-  font-size: 66px;
+  font-size: var(--font-size-hero-heading);
   line-height: 76px;
   font-weight: 500;
   color: var(--color-text-primary);
