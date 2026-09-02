@@ -323,7 +323,7 @@ html {
 }
 
 .person__image_size_m {
-  width: 100px;
+  width: var(--size-person-image-medium);
 }
 
 .person__image_size_s {
