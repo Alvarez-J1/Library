@@ -101,7 +101,7 @@ html {
 .header__title {
   font-size: var(--font-size-hero-heading);
   line-height: var(--line-height-hero-heading);
-  font-weight: 500;
+  font-weight: var(--font-weight-medium);
   color: var(--color-text-primary);
   margin: 128px 0 0;
   max-width: 601px;
