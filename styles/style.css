@@ -241,7 +241,7 @@ html {
   background-repeat: no-repeat;
   background-position: center;
   margin-right: 12px;
-  width: 24px;
+  width: var(--size-event-icon);
   height: 24px;
 }
 
