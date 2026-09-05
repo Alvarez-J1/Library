@@ -23,6 +23,7 @@
   --shadow-card-hover: 0 12px 28px rgba(31, 31, 31, 0.14);
   --transition-shadow: box-shadow 0.2s ease;
   --font-family-page: "Helvetica Neue", Arial, sans-serif;
+  --font-weight-regular: 400;
   --font-weight-medium: 500;
   --font-weight-bold: 700;
   --font-size-base: 16px;
