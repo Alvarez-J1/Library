@@ -242,7 +242,7 @@ html {
   background-position: center;
   margin-right: 12px;
   width: var(--size-event-icon);
-  height: 24px;
+  height: var(--size-event-icon);
 }
 
 .event-info__icon_type_calendar {
