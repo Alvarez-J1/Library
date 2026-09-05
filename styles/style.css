@@ -125,7 +125,7 @@ html {
 .header__image {
   z-index: 1;
   position: absolute;
-  max-width: 550px;
+  max-width: var(--size-header-image);
   height: auto;
   top: 148px;
   right: 48px;
