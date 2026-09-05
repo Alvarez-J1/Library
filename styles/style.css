@@ -374,7 +374,7 @@ html {
   text-align: center;
   font-size: var(--font-size-lead);
   line-height: var(--line-height-lead);
-  font-weight: 400;
+  font-weight: var(--font-weight-regular);
   color: var(--color-surface);
   margin: 0 0 68px;
 }
