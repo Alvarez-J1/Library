@@ -578,7 +578,7 @@ html {
 
 .footer__social-icon {
   height: var(--size-social-icon);
-  width: 16px;
+  width: var(--size-social-icon);
 }
 
 .footer__copyright {
