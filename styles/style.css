@@ -577,7 +577,7 @@ html {
 }
 
 .footer__social-icon {
-  height: 16px;
+  height: var(--size-social-icon);
   width: 16px;
 }
 
