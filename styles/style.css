@@ -211,7 +211,7 @@ html {
 
 .events__heading {
   font-size: var(--font-size-lead);
-  font-weight: 500;
+  font-weight: var(--font-weight-medium);
   line-height: var(--line-height-lead);
   margin: 0;
 }
