@@ -457,7 +457,7 @@ html {
   margin: 0;
   font-size: 20px;
   line-height: 30px;
-  font-weight: 700;
+  font-weight: var(--font-weight-bold);
   display: flex;
   align-items: center;
 }
