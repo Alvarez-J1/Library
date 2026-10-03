@@ -531,7 +531,7 @@ html {
   color: var(--color-surface);
   padding: 60px var(--space-page-inline);
   font-size: var(--font-size-base);
-  line-height: 20px;
+  line-height: var(--line-height-base);
 }
 
 .footer__columns {
