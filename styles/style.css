@@ -497,7 +497,7 @@ html {
   margin: 0 0 32px;
   font-size: var(--font-size-section-heading);
   line-height: var(--line-height-section-heading);
-  font-weight: 500;
+  font-weight: var(--font-weight-medium);
 }
 
 .about__content {
