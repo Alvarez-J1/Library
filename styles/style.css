@@ -468,7 +468,7 @@ html {
 .step__title {
   margin: 0;
   font-size: var(--font-size-lead);
-  line-height: 30px;
+  line-height: var(--line-height-lead);
   font-weight: var(--font-weight-bold);
   display: flex;
   align-items: center;
