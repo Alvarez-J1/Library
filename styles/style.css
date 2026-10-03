@@ -448,7 +448,7 @@ html {
   margin: 0 auto;
   text-align: center;
   font-size: var(--font-size-section-heading);
-  font-weight: 500;
+  font-weight: var(--font-weight-medium);
   line-height: var(--line-height-section-heading);
 }
 
