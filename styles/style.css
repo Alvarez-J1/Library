@@ -467,7 +467,7 @@ html {
 
 .step__title {
   margin: 0;
-  font-size: 20px;
+  font-size: var(--font-size-lead);
   line-height: 30px;
   font-weight: var(--font-weight-bold);
   display: flex;
