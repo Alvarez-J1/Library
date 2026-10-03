@@ -7,7 +7,8 @@
   --color-surface: #fff;
   --color-dark: #1f1f1f;
   --color-footer-link-hover: #c1c1c1;
-  --transition-color: color 0.2s ease;
+  --transition-duration-fast: 0.2s;
+  --transition-color: color var(--transition-duration-fast) ease;
   --focus-outline: 2px solid var(--color-accent);
   --space-focus-offset: 4px;
   --radius-focus: 2px;
