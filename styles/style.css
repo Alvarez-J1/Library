@@ -22,6 +22,7 @@
   --space-footer-list-item-gap: 16px;
   --space-footer-column-gap: 80px;
   --space-page-inline: 80px;
+  --space-about-paragraph-gap: 20px;
   --scroll-margin-section: 24px;
   --shadow-card: 0 8px 20px rgba(31, 31, 31, 0.08);
   --shadow-card-hover: 0 12px 28px rgba(31, 31, 31, 0.14);
@@ -511,7 +512,7 @@ html {
 }
 
 .about__paragraph {
-  margin: 0 0 20px;
+  margin: 0 0 var(--space-about-paragraph-gap);
 }
 
 .about__paragraph:last-child {
