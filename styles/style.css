@@ -15,6 +15,7 @@
   --radius-skip-link: 4px;
   --space-nav-link-gap: 20px;
   --space-card-copy-top: 20px;
+  --space-person-caption-gap: 10px;
   --space-staff-card-gap: 40px;
   --space-social-icon-gap: 10px;
   --space-step-icon-gap: 20px;
@@ -305,7 +306,7 @@ html {
   display: flex;
   align-items: center;
   flex-direction: column;
-  gap: 10px;
+  gap: var(--space-person-caption-gap);
   margin: 0;
 }
 
