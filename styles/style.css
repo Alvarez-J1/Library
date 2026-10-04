@@ -567,7 +567,7 @@ html {
 .footer__column-heading {
   margin: 0 0 20px;
   font-size: var(--font-size-base);
-  line-height: 20px;
+  line-height: var(--line-height-base);
 }
 
 .footer__column-link {
