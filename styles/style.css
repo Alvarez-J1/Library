@@ -573,7 +573,7 @@ html {
 .footer__column-link {
   color: var(--color-surface);
   font-size: var(--font-size-base);
-  line-height: 20px;
+  line-height: var(--line-height-base);
   text-decoration: none;
   display: flex;
   gap: var(--space-social-icon-gap);
