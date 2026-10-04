@@ -18,6 +18,7 @@
   --space-person-caption-gap: 10px;
   --space-event-icon-gap: 12px;
   --space-event-info-item-gap: 4px;
+  --space-events-title-top: 32px;
   --space-staff-card-gap: 40px;
   --space-social-icon-gap: 10px;
   --space-step-icon-gap: 20px;
@@ -239,7 +240,7 @@ html {
   font-size: var(--font-size-section-heading);
   font-weight: var(--font-weight-medium);
   line-height: var(--line-height-section-heading);
-  margin: 32px 0 0;
+  margin: var(--space-events-title-top) 0 0;
 }
 
 .events__info-section {
