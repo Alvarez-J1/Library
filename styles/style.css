@@ -19,6 +19,7 @@
   --space-event-icon-gap: 12px;
   --space-event-info-item-gap: 4px;
   --space-events-title-top: 32px;
+  --space-events-info-top: 32px;
   --space-staff-card-gap: 40px;
   --space-social-icon-gap: 10px;
   --space-step-icon-gap: 20px;
@@ -244,7 +245,7 @@ html {
 }
 
 .events__info-section {
-  margin-top: 32px;
+  margin-top: var(--space-events-info-top);
 }
 
 .event-info__item {
