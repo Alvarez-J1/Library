@@ -17,6 +17,7 @@
   --space-card-copy-top: 20px;
   --space-person-caption-gap: 10px;
   --space-event-icon-gap: 12px;
+  --space-event-info-item-gap: 4px;
   --space-staff-card-gap: 40px;
   --space-social-icon-gap: 10px;
   --space-step-icon-gap: 20px;
@@ -248,7 +249,7 @@ html {
 .event-info__item {
   display: flex;
   align-items: center;
-  margin-bottom: 4px;
+  margin-bottom: var(--space-event-info-item-gap);
   font-weight: var(--font-weight-medium);
 }
 
