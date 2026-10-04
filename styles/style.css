@@ -430,11 +430,10 @@ html {
 }
 
 .card__footer {
-  margin: 0;
+  margin: auto 0 0;
   font-size: var(--font-size-small);
   line-height: var(--line-height-base);
   color: var(--color-text-muted);
-  margin-top: auto;
 }
 
 .membership {
