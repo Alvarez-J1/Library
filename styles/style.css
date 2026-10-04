@@ -16,6 +16,7 @@
   --space-nav-link-gap: 20px;
   --space-card-copy-top: 20px;
   --space-person-caption-gap: 10px;
+  --space-event-icon-gap: 12px;
   --space-staff-card-gap: 40px;
   --space-social-icon-gap: 10px;
   --space-step-icon-gap: 20px;
@@ -254,7 +255,7 @@ html {
 .event-info__icon {
   background-repeat: no-repeat;
   background-position: center;
-  margin-right: 12px;
+  margin-right: var(--space-event-icon-gap);
   width: var(--size-event-icon);
   height: var(--size-event-icon);
 }
