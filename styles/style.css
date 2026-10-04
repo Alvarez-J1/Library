@@ -18,6 +18,7 @@
   --space-staff-card-gap: 40px;
   --space-social-icon-gap: 10px;
   --space-step-icon-gap: 20px;
+  --space-footer-list-item-gap: 16px;
   --space-footer-column-gap: 80px;
   --space-page-inline: 80px;
   --scroll-margin-section: 24px;
@@ -558,7 +559,7 @@ html {
 }
 
 .footer__list-item {
-  margin: 0 0 16px;
+  margin: 0 0 var(--space-footer-list-item-gap);
 }
 
 .footer__list-item:last-child {
