@@ -21,6 +21,7 @@
   --space-events-title-top: 32px;
   --space-events-info-top: 32px;
   --space-staff-heading-gap: 24px;
+  --space-staff-subtitle-gap: 68px;
   --space-staff-card-gap: 40px;
   --space-social-icon-gap: 10px;
   --space-step-icon-gap: 20px;
@@ -397,7 +398,7 @@ html {
   line-height: var(--line-height-lead);
   font-weight: var(--font-weight-regular);
   color: var(--color-surface);
-  margin: 0 0 68px;
+  margin: 0 0 var(--space-staff-subtitle-gap);
 }
 
 .card {
