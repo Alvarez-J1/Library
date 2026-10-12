@@ -23,6 +23,7 @@
   --space-staff-heading-gap: 24px;
   --space-staff-subtitle-gap: 68px;
   --space-staff-card-gap: 40px;
+  --space-membership-steps-top: 100px;
   --space-social-icon-gap: 10px;
   --space-step-icon-gap: 20px;
   --space-footer-heading-gap: 20px;
@@ -465,7 +466,7 @@ html {
 .membership__steps {
   list-style-type: none;
   padding: 0;
-  margin: 100px 0 0;
+  margin: var(--space-membership-steps-top) 0 0;
   gap: 40px;
   display: flex;
   justify-content: center;
