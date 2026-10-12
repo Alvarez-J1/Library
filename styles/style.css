@@ -24,6 +24,7 @@
   --space-staff-subtitle-gap: 68px;
   --space-staff-card-gap: 40px;
   --space-membership-steps-top: 100px;
+  --space-membership-step-gap: 40px;
   --space-social-icon-gap: 10px;
   --space-step-icon-gap: 20px;
   --space-footer-heading-gap: 20px;
@@ -467,7 +468,7 @@ html {
   list-style-type: none;
   padding: 0;
   margin: var(--space-membership-steps-top) 0 0;
-  gap: 40px;
+  gap: var(--space-membership-step-gap);
   display: flex;
   justify-content: center;
 }
