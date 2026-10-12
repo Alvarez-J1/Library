@@ -20,6 +20,7 @@
   --space-event-info-item-gap: 4px;
   --space-events-title-top: 32px;
   --space-events-info-top: 32px;
+  --space-staff-heading-gap: 24px;
   --space-staff-card-gap: 40px;
   --space-social-icon-gap: 10px;
   --space-step-icon-gap: 20px;
@@ -385,7 +386,7 @@ html {
   text-align: center;
   font-size: var(--font-size-section-heading);
   line-height: var(--line-height-section-heading);
-  margin: 0 0 24px;
+  margin: 0 0 var(--space-staff-heading-gap);
   font-weight: var(--font-weight-medium);
   color: var(--color-surface);
 }
